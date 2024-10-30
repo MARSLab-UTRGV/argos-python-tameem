@@ -1,0 +1,183 @@
+{
+	"BUILD_DIR" : "/home/tameem/Downloads/Tameem-Argos/argos/build/source/BasicGA_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tameem/Downloads/Tameem-Argos/argos/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tameem/Downloads/Tameem-Argos/argos/build/source",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tameem/Downloads/Tameem-Argos/argos/source",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/home/tameem/Downloads/Tameem-Argos/argos/source/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/home/tameem/Downloads/Tameem-Argos/argos",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/ga/BasicGA.h",
+			"Mu",
+			"4JCVWFXH6R/moc_BasicGA.cpp",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/ga/Chromosome.h",
+			"Mu",
+			"4JCVWFXH6R/moc_Chromosome.cpp",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/ga/ChromosomeFactory.h",
+			"Mu",
+			"4JCVWFXH6R/moc_ChromosomeFactory.cpp",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/ga/Unique.h",
+			"Mu",
+			"4JCVWFXH6R/moc_Unique.cpp",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/nn/NeuralNetFactory.h",
+			"Mu",
+			"3GNX45VY2U/moc_NeuralNetFactory.cpp",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/nn/NeuralNetwork.h",
+			"Mu",
+			"3GNX45VY2U/moc_NeuralNetwork.cpp",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/nn/Neuron.h",
+			"Mu",
+			"3GNX45VY2U/moc_Neuron.cpp",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/nn/Perceptron.h",
+			"Mu",
+			"3GNX45VY2U/moc_Perceptron.cpp",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/nn/ValueNeuron.h",
+			"Mu",
+			"3GNX45VY2U/moc_ValueNeuron.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/tameem/Downloads/Tameem-Argos/argos/build/source/BasicGA_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/tameem/Downloads/Tameem-Argos/argos/build/source/BasicGA_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"BasicGA_EXPORTS",
+		"GL_SILENCE_DEPRECATION",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGLWIDGETS_LIB",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/tameem/Downloads/Tameem-Argos/argos/build/source",
+		"/home/tameem/Downloads/Tameem-Argos/argos/source",
+		"/home/tameem/Downloads/Tameem-Argos/argos",
+		"/usr/include/Headers",
+		"/usr/include/x86_64-linux-gnu/qt6/QtDBus",
+		"/usr/include/lua5.3",
+		"/usr/include/x86_64-linux-gnu/qt6/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt6",
+		"/usr/include/x86_64-linux-gnu/qt6/QtCore",
+		"/usr/include/x86_64-linux-gnu/qt6/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets",
+		"/usr/include/x86_64-linux-gnu/qt6/QtOpenGL",
+		"/usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/tameem/Downloads/Tameem-Argos/argos/build/source/BasicGA_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/home/tameem/Downloads/Tameem-Argos/argos/build/source/CMakeFiles/BasicGA_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 2,
+	"SETTINGS_FILE" : "/home/tameem/Downloads/Tameem-Argos/argos/build/source/CMakeFiles/BasicGA_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/ga/BasicGA.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/ga/Chromosome.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/ga/ChromosomeFactory.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/ga/Unique.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/nn/NeuralNetFactory.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/nn/NeuralNetwork.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/nn/Neuron.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/nn/Perceptron.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/tameem/Downloads/Tameem-Argos/argos/source/nn/ValueNeuron.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}
